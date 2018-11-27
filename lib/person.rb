@@ -12,4 +12,4 @@ class Person
   def job
     @this_persons_job
   end
-end  
+end
